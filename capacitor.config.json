@@ -1,0 +1,6 @@
+{
+  "appId": "com.alitqan.garage",
+  "appName": "ورشة الإتقان",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
